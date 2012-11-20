@@ -1,0 +1,10 @@
+{
+	// The path to the TortoiseSVN TortoiseProc.exe executable
+	"svn_tortoiseproc_path": "D:\\Program Files\\TortoiseSVN\\bin\\TortoiseProc.exe"
+
+	// The path to the TortoiseGit TortoiseProc.exe executable
+	//"git_tortoiseproc_path": "C:\\Program Files\\TortoiseGit\\bin\\TortoiseProc.exe",
+	
+	// The path to the TortoiseHg thgw.exe (or hgtk.exe) executable
+	//"hg_hgtk_path": "C:\\Program Files\\TortoiseHg\\thgw.exe"
+}

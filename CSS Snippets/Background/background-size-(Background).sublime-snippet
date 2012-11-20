@@ -2,9 +2,7 @@
 	<content><![CDATA[
 background-size:${1:X|X%|auto|cover|contain}; $0
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>bgs</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.css,source.scss,text.html</scope>
-	<description>background-size [Background]</description>
+	<description>背景尺寸 -I6~8 3</description>
 </snippet>

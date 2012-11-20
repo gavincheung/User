@@ -2,9 +2,7 @@
 	<content><![CDATA[
 background-clip:${1:padding-box|border-box|content-box|text}; $0
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>bgcl</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.css,source.scss,text.html</scope>
-	<description>background-clip [Background]</description>
+	<description>背景裁剪 +webkit 3</description>
 </snippet>

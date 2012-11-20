@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+font-family:"\5FAE\8F6F\96C5\9ED1", "\9ED1\4F53"; $0
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ffy</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css,source.scss,text.html</scope>
+	<description>font-family:Yahei [Font]</description>
+</snippet>

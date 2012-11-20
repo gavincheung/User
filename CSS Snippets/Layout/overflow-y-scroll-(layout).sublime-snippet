@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+overflow-y:scroll; $0
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>oys</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css,source.scss,text.html</scope>
+	<description>overflow-y:scroll [Layout]</description>
+</snippet>

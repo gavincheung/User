@@ -1,0 +1,22 @@
+{
+	"auto_upgrade_last_run": 1353395475,
+	"installed_packages":
+	[
+		"Backbone.js",
+		"CodeIgniter Snippets",
+		"Compass",
+		"Default File Type",
+		"Emmet",
+		"jQuery",
+		"jQuery Mobile Snippets",
+		"jQuery Snippets pack",
+		"Markdown Preview",
+		"Markdown to Clipboard",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Sass",
+		"SCSS",
+		"Twitter Bootstrap Snippets",
+		"Yii Framework Snippets"
+	]
+}

@@ -1,0 +1,6 @@
+[
+	{ "keys": [";","w"], "command": "save" },
+	{ "keys": [";","q"], "command": "close_file" },
+
+	{ "keys": [";","c"], "command": "toggle_comment", "args": { "block": false } }
+]

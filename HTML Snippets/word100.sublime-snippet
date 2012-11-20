@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+西藏的餐厅大多有高压锅了，即使是在珠峰大本营，食物也可以煮熟，至少我们吃的面汤还是很软和的。有个别米饭硬的餐厅，也难免。一路都是买水喝，到酒店也是用瓶装水加热，所以直到返程时，在贡嘎机场看了一下电水箱的温度计，80度就算是开了。
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>word100</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+	<description>占位文字100+</description>
+</snippet>

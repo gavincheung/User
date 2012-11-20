@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/User/Moria.tmTheme",
+	"detect_slow_plugin": false,
+	"font_face": "YaHei Mono",
+	"font_size": 10.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+	],
+	"vintage_ctrl_keys": true,
+	"vintage_start_in_command_mode": true,
+	"word_wrap": true
+}

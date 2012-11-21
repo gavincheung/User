@@ -394,6 +394,180 @@
 			</dict>
 		</dict>
 
+		// Markdown 配色
+		<dict>
+		    <key>name</key>
+		    <string>diff: deleted</string>
+		    <key>scope</key>
+		    <string>markup.deleted</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>background</key>
+		        <string>#EAE3CA</string>
+		        <key>fontStyle</key>
+		        <string></string>
+		        <key>foreground</key>
+		        <string>#D3201F</string>
+		    </dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>diff: changed</string>
+		    <key>scope</key>
+		    <string>markup.changed</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>background</key>
+		        <string>#EAE3CA</string>
+		        <key>fontStyle</key>
+		        <string></string>
+		        <key>foreground</key>
+		        <string>#BF3904</string>
+		    </dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>diff: inserted</string>
+		    <key>scope</key>
+		    <string>markup.inserted</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>background</key>
+		        <string>#EAE3CA</string>
+		        <key>foreground</key>
+		        <string>#219186</string>
+		    </dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>Markdown: Linebreak</string>
+		    <key>scope</key>
+		    <string>text.html.markdown meta.dummy.line-break</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>background</key>
+		        <string>#A57706</string>
+		        <key>foreground</key>
+		        <string>#E0EDDD</string>
+		    </dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>Markdown: Raw</string>  // code行
+		    <key>scope</key>
+		    <string>text.html.markdown markup.raw.inline</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+		        <string>#87DF71</string>
+		    </dict>
+		</dict>
+
+	    <dict>
+	        <key>name</key>
+	        <string>Markup: Heading</string> // 标题
+	        <key>scope</key>
+	        <string>markup.heading</string>
+	        <key>settings</key>
+	        <dict>
+	            <key>fontStyle</key>
+	            <string>bold</string>
+	            <key>foreground</key>
+	            <string>#F09479</string>
+	        </dict>
+	    </dict>
+	    <dict>
+	        <key>name</key>
+	        <string>Markup: Italic</string> // 斜体
+	        <key>scope</key>
+	        <string>markup.italic</string>
+	        <key>settings</key>
+	        <dict>
+	            <key>fontStyle</key>
+	            <string>italic</string>
+	            <key>foreground</key>
+	            <string>#839496</string>
+	        </dict>
+
+	    </dict>
+	    <dict>
+	        <key>name</key>
+	        <string>Markup: Bold</string> // 粗体
+	        <key>scope</key>
+	        <string>markup.bold</string>
+	        <key>settings</key>
+	        <dict>
+	            <key>fontStyle</key>
+	            <string>bold</string>
+	            <key>foreground</key>
+	            <string>#586e75</string>
+	        </dict>
+	    </dict>
+	    <dict>
+	        <key>name</key>
+	        <string>Markup: Underline</string> // 链接
+	        <key>scope</key>
+	        <string>markup.underline</string>
+	        <key>settings</key>
+	        <dict>
+	            <key>fontStyle</key>
+	            <string>underline</string>
+	            <key>foreground</key>
+	            <string>#87DF71</string>
+	        </dict>
+	    </dict>
+	    <dict>
+	        <key>name</key>
+	        <string>Markup: Quote</string>  // 引用
+	        <key>scope</key>
+	        <string>markup.quote</string>
+	        <key>settings</key>
+	        <dict>
+	            <key>fontStyle</key>
+	            <string>italic</string>
+	            <key>foreground</key>
+	            <string>#268bd2</string>
+	        </dict>
+	    </dict>
+	    <dict>
+	        <key>name</key>
+	        <string>Markup: List</string>  // 列表
+	        <key>scope</key>
+	        <string>markup.list</string>
+	        <key>settings</key>
+	        <dict>
+	            <key>foreground</key>
+	            <string>#54AABA</string>
+	        </dict>
+	    </dict>
+	    <dict>
+	        <key>name</key>
+	        <string>Markup: Raw</string> // code段
+	        <key>scope</key>
+	        <string>markup.raw</string>
+	        <key>settings</key>
+	        <dict>
+	            <key>foreground</key>
+	            <string>#FD961F</string>
+	        </dict>
+	    </dict>
+	    <dict>
+	        <key>name</key>
+	        <string>Markup: Separator</string> // 分割线
+	        <key>scope</key>
+	        <string>meta.separator</string>
+	        <key>settings</key>
+	        <dict>
+	            <key>background</key>
+	            <string>#eee8d5</string>
+	            <key>fontStyle</key>
+	            <string>bold</string>
+	            <key>foreground</key>
+	            <string>#268bd2</string>
+	        </dict>
+	    </dict>
+		
+
 	</array>
 	<key>uuid</key>
 	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>

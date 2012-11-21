@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1353395475,
+	"auto_upgrade_last_run": 1353420890,
 	"installed_packages":
 	[
 		"Backbone.js",
@@ -8,6 +8,7 @@
 		"Default File Type",
 		"Emmet",
 		"Gist",
+		"Git",
 		"jQuery",
 		"jQuery Mobile Snippets",
 		"jQuery Snippets pack",
@@ -15,6 +16,7 @@
 		"Markdown to Clipboard",
 		"Nettuts+ Fetch",
 		"Package Control",
+		"SCSS",
 		"Tortoise",
 		"Twitter Bootstrap Snippets",
 		"Yii Framework Snippets"
